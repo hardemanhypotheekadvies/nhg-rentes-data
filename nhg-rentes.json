@@ -1,0 +1,60 @@
+{
+  "peildatum": "2026-11-13",
+  "bijgewerkt_op": "2026-11-13T07:45:00+01:00",
+  "voorbeeld": true,
+  "type": "Annuïteiten- of lineaire hypotheek met NHG",
+  "methode": "Per rentevaste periode het gemiddelde van de 5 laagste NHG-rentes bij geldverstrekkers waarvoor Hardeman Hypotheekadvies bemiddelt en die hun rentes openbaar publiceren. Zonder kortingen die van voorwaarden afhangen, behalve bij ING (inclusief Actieve Betaalrekening Korting, zoals in de gangbare rentelijsten).",
+  "aantal_geraadpleegd": 22,
+  "periodes": [
+    {
+      "jaren": 5,
+      "gemiddelde": 4.14,
+      "aantal_aanbieders": 20,
+      "laagste_vijf": [
+        { "aanbieder": "Voorbeeldbank A", "rente": 4.10, "ingangsdatum": "2026-11-10", "bron": "https://example.org/a" },
+        { "aanbieder": "Voorbeeldbank B", "rente": 4.12, "ingangsdatum": "2026-11-10", "bron": "https://example.org/b" },
+        { "aanbieder": "Voorbeeldbank C", "rente": 4.13, "ingangsdatum": "2026-11-13", "bron": "https://example.org/c" },
+        { "aanbieder": "Voorbeeldbank D", "rente": 4.15, "ingangsdatum": "2026-11-11", "bron": "https://example.org/d" },
+        { "aanbieder": "Voorbeeldbank E", "rente": 4.19, "ingangsdatum": "2026-11-11", "bron": "https://example.org/e" }
+      ]
+    },
+    {
+      "jaren": 10,
+      "gemiddelde": 4.26,
+      "aantal_aanbieders": 20,
+      "laagste_vijf": [
+        { "aanbieder": "Voorbeeldbank A", "rente": 4.22, "ingangsdatum": "2026-11-10", "bron": "https://example.org/a" },
+        { "aanbieder": "Voorbeeldbank B", "rente": 4.24, "ingangsdatum": "2026-11-10", "bron": "https://example.org/b" },
+        { "aanbieder": "Voorbeeldbank C", "rente": 4.26, "ingangsdatum": "2026-11-13", "bron": "https://example.org/c" },
+        { "aanbieder": "Voorbeeldbank D", "rente": 4.29, "ingangsdatum": "2026-11-11", "bron": "https://example.org/d" },
+        { "aanbieder": "Voorbeeldbank E", "rente": 4.29, "ingangsdatum": "2026-11-11", "bron": "https://example.org/e" }
+      ]
+    },
+    {
+      "jaren": 20,
+      "gemiddelde": 4.56,
+      "aantal_aanbieders": 19,
+      "laagste_vijf": [
+        { "aanbieder": "Voorbeeldbank A", "rente": 4.51, "ingangsdatum": "2026-11-10", "bron": "https://example.org/a" },
+        { "aanbieder": "Voorbeeldbank B", "rente": 4.55, "ingangsdatum": "2026-11-10", "bron": "https://example.org/b" },
+        { "aanbieder": "Voorbeeldbank C", "rente": 4.56, "ingangsdatum": "2026-11-13", "bron": "https://example.org/c" },
+        { "aanbieder": "Voorbeeldbank D", "rente": 4.58, "ingangsdatum": "2026-11-11", "bron": "https://example.org/d" },
+        { "aanbieder": "Voorbeeldbank E", "rente": 4.60, "ingangsdatum": "2026-11-11", "bron": "https://example.org/e" }
+      ]
+    },
+    {
+      "jaren": 30,
+      "gemiddelde": 4.63,
+      "aantal_aanbieders": 16,
+      "laagste_vijf": [
+        { "aanbieder": "Voorbeeldbank A", "rente": 4.53, "ingangsdatum": "2026-11-10", "bron": "https://example.org/a" },
+        { "aanbieder": "Voorbeeldbank B", "rente": 4.60, "ingangsdatum": "2026-11-10", "bron": "https://example.org/b" },
+        { "aanbieder": "Voorbeeldbank C", "rente": 4.66, "ingangsdatum": "2026-11-13", "bron": "https://example.org/c" },
+        { "aanbieder": "Voorbeeldbank D", "rente": 4.68, "ingangsdatum": "2026-11-11", "bron": "https://example.org/d" },
+        { "aanbieder": "Voorbeeldbank E", "rente": 4.69, "ingangsdatum": "2026-11-11", "bron": "https://example.org/e" }
+      ]
+    }
+  ],
+  "opmerking": null,
+  "disclaimer": "Indicatieve rentes, geen advies of aanbod. Je werkelijke rente hangt af van je situatie en de voorwaarden van de geldverstrekker."
+}
